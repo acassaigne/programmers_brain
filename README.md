@@ -2,7 +2,8 @@
 
 
 Dans nos écoles, nous avons appris à lire avant de savoir écrire.
-D'après les méthodes d'enseignement: Comprendre un texte, c’est se faire une représentation mentale cohérente qui intègre toutes les informations du texte". Ces principes s'appliquent tout aussi bien à la compréhension de n'importe quel code logiciel.
+D'après les méthodes usuelles d'enseignement, Comprendre un texte, c’est se faire une représentation mentale cohérente qui intègre toutes les informations du texte. 
+Ces principes s'appliquent tout aussi bien à la compréhension de n'importe quel code logiciel.
 Car nous avons tous fait l'expérience de lire du code qui ne nous appartenais pas ou même nos propres productions.
 
 Nos constats sont les suivants:
